@@ -4,7 +4,8 @@ This repository contains templates for your Website, such as an **Invite Button*
 
 ## Available Templates
 - **Invite Button**: A button template that allows users to quickly join your Nertivia server.
- ↳ This Button Template is also available at: https://github.com/NertiviaChat/Community-Sampels
+- ↳ This Button Template is also available at: https://github.com/NertiviaChat/Community-Sampels
+
 
 ## How to Use
 1. Download the template folder you're interested in.
